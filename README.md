@@ -28,7 +28,7 @@ I'm a self-taught passionate mobile/frontend developer
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larkes-cyber&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larkes-cyber&repo=start-app&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larkes-cyber&repo=anuraghazra.github.io&theme=buefy" />
