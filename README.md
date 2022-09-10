@@ -31,7 +31,7 @@ I'm a self-taught passionate mobile/frontend developer
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larkes-cyber&repo=start-app&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larkes-cyber&repo=marvel-service&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larkes-cyber&repo=Pokex&theme=buefy" />
 </a>
 
 <br />
