@@ -1,6 +1,4 @@
-<p align="center"><a href="https://larkes-cyber.github.io"><img width="80%" alt="Hello, I'm Snikky. I do applications!" src="./assets/gh-rekadme-header.png" /></a></p>
 
-<br />
 
 I'm a self-taught passionate mobile/frontend developer
 
