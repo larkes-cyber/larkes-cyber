@@ -1,5 +1,5 @@
 
-# Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=larkes-cyber&color=F39F18&style=for-the-badge&label=Visitors"/>
+# Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
 I'm a self-taught passionate mobile/frontend developer
