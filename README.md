@@ -8,7 +8,7 @@ I'm a self-taught passionate **Mobile Fullstack** developer
 
 - 💼 web/mobile/backend developer
 
-- 📈 Сrypto enthusiast
+- 📈 Blockchain enthusiast
 
 - ❤️ I love writing Kotlin, and building fun experiments on type-level
 
