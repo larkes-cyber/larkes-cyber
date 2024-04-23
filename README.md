@@ -6,7 +6,7 @@ I'm a self-taught passionate **Mobile Fullstack** developer
 
 **About me**
 
-- 💼 web/mobile/backend developer
+- 💼 Mobile/frontend/backend developer
 
 - 📈 Blockchain enthusiast
 
